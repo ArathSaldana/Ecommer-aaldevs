@@ -81,7 +81,8 @@ const LoginPage = (props) => {
         <div className={styles.loginFormContainer}>
           <h1 className={styles.loginTitle}>Login</h1>
           <span className={styles.subtitle}>
-            Please enter your e-mail and password
+            por favor ingresa tu correo
+            
           </span>
           <form
             noValidate
